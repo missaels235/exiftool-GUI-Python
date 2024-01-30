@@ -23,12 +23,12 @@ Configuración y ejecución
 
 3. **Ejecuta la aplicación:**
    ```bash
-   python exiftool_gui.py
+   python exiftoolguipython.py
    ```
 
    Si estás utilizando Python 3, puedes usar:
    ```bash
-   python3 exiftool_gui.py
+   python3 exiftoolguipython.py
    ```
  Uso
 
