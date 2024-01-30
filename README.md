@@ -10,13 +10,13 @@ Una interfaz gráfica simple para ExifTool que te permite seleccionar archivos, 
 
 Configuración y ejecución
 
-1. Clona el repositorio:**
+1. Clona el repositorio:
    ```bash
    git clone https://github.com/missaels235/exiftool-GUI-Python
    cd exiftool-gui
    ```
 
-2. Instala las dependencias:**
+2. Instala las dependencias:
    ```bash
    pip install -r requirements.txt
    ```
